@@ -1,5 +1,5 @@
 /* Edge Impulse Arduino examples
- * Copyright (c) 2021 EdgeImpulse Inc.
+ * Copyright (c) 2022 EdgeImpulse Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,8 +24,8 @@
 #define EIDSP_QUANTIZE_FILTERBANK   0
 
 /* Includes ---------------------------------------------------------------- */
-#include <PDM.h>
-#include <Ascensores_Ermua_inferencing.h>
+
+#include <Hydrogen_inferencing.h>
 
 /** Audio buffers, pointers and selectors */
 typedef struct {
