@@ -9,6 +9,8 @@ https://github.com/alex-makarov/hoverboard-firmware-hack-FOC
 by Alex Makarov.
 
 
-**Blues Wireless & Edge Impulse sensor firmware:** 
+**Adapter PCB:** 
 
 **Blues Wireless & Edge Impulse sensor firmware:** 
+
+**Enclosure 3D model:** 
