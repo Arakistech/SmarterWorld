@@ -1,16 +1,19 @@
 # Smarter World Contest
 **In this repo you will find the required code to replicate the project.**
 
-![first_test results](https://github.com/Arakistech/SmarterWorld/blob/main/img/Portada.jpg)
+![Portada](https://github.com/Arakistech/SmarterWorld/blob/main/img/Portada.jpg)
 
 
 **Firmware to be flashed in the hoverboard controller:** 
-https://github.com/alex-makarov/hoverboard-firmware-hack-FOC
+ https://github.com/alex-makarov/hoverboard-firmware-hack-FOC
 by Alex Makarov.
 
 
 **Adapter PCB:** 
-Contains and adapter PCB for Blues Wireless notecarrier B and Seeduino Xiao board.
+Contains and adapter PCB for Blues Wireless notecarrier B and Seeduino Xiao to open with board with Easyeda.
+![Footprint]([https://github.com/Arakistech/SmarterWorld/blob/main/img/Portada.jpg](https://github.com/Arakistech/SmarterWorld/blob/main/img/Footprint.jpg))
+
+
 
 **Blues Wireless & Edge Impulse sensor firmware:** 
 
