@@ -11,7 +11,8 @@ by Alex Makarov.
 
 **Adapter PCB:** 
 Contains and adapter PCB for Blues Wireless notecarrier B and Seeduino Xiao to open with board with Easyeda.
-![Footprint]([[https://github.com/Arakistech/SmarterWorld/blob/main/img/Footprint.jpg](https://github.com/Arakistech/SmarterWorld/blob/main/img/Footprint.jpg)])
+![Footprint](https://github.com/Arakistech/SmarterWorld/blob/main/img/Footprint.jpg)
+
 
 
 
